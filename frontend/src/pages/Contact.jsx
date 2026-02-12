@@ -1,7 +1,7 @@
 import { assets } from '../assets/frontend_assets/assets';
 import React from 'react';
 import NewsLetterBox from '../Components/NewsLetterBox';
-import Title from '../Components/Title';
+import Title from '../components/Title';
 
 const Contact = () => {
   const scrollToTop = () => {
