@@ -3,7 +3,7 @@
 import { use, useContext, useEffect } from 'react';
 import { useState } from 'react';
 
-import { ShopContext } from '../context/shopContext';
+import { ShopContext } from '../context/ShopContext.jsx';
 import { assets } from '../assets/frontend_assets/assets';
 
 import Title from '../components/Title';
